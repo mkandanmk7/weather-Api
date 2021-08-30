@@ -1,4 +1,4 @@
-# Deployed Link [Click here]()
+# Deployed Link [Click here](https://silly-yalow-5cd02e.netlify.app/)
 
 # You could see your cities wind speed ,weather state , temperature here.
 
